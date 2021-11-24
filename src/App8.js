@@ -1,7 +1,6 @@
 import {useState} from "react";
 
 function App8() {
-    let ava = '';
     const initialList = [
         {id: 1, value: 1},
         {id: 2, value: 2},
